@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+
+    <Button android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TUTORIAL"
+        android:textSize="14sp"
+        android:textColor="@color/cyan"
+        android:drawableTop="@drawable/ic_tutorial"
+        android:drawablePadding="16dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:visibility="visible"/>
+
+    <Button android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" VS"
+        android:textSize="14sp"
+        android:textColor="@color/red"
+        android:drawableTop="@drawable/ic_vs"
+        android:drawablePadding="16dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_margin="24dp"
+        android:visibility="visible"/>
+
+    <Button android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TRAINING"
+        android:textSize="14sp"
+        android:textColor="@color/yellow"
+        android:drawableTop="@drawable/ic_training"
+        android:drawablePadding="16dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:visibility="visible"/>
+
+
+
+    
+</LinearLayout>

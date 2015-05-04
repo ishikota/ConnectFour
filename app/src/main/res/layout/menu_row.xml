@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="@dimen/list_row_single_icon_height">
+
+    <ImageView android:id="@+id/icon"
+        android:layout_width="@dimen/list_row_single_icon_height"
+        android:layout_height="@dimen/list_row_single_icon_height"
+        android:padding="20dp"
+        android:src="@drawable/move_blank"
+        android:contentDescription="@string/icon"/>
+    <TextView android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hard"
+        android:textSize="@dimen/list_row_text_primary"
+        android:paddingTop="@dimen/list_row_single_padding_top"
+        android:paddingBottom="@dimen/list_row_single_padding_bottom"
+        android:layout_marginStart="72dp"
+        android:layout_marginLeft="72dp"/>
+    <TextView android:id="@+id/label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/start"
+        android:textSize="@dimen/list_row_text_primary"
+        android:textColor="@color/white"
+        android:paddingTop="@dimen/list_row_single_padding_top"
+        android:paddingBottom="@dimen/list_row_single_padding_bottom"
+        android:layout_gravity="end"
+        android:paddingRight="16dp"
+        android:paddingLeft="16dp"
+        android:background="@color/red"
+        android:visibility="gone"/>
+</FrameLayout>

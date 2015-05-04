@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ConnectFour</string>
+    <string name="activity_menu">Menu</string>
+    <string name="activity_vs">VS</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_reset_data">Reset Data</string>
+    <string name="icon">icon</string>
+    <string name="player1">PLAYER1</string>
+    <string name="player2">PLAYER2</string>
+    <string name="vs">vs</string>
+    <string name="choose_first">Choose First Player</string>
+    <string name="choose_second">Choose Second Player</string>
+    <string name="start_game">Tap to Start</string>
+    <string name="start">start</string>
+
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="expert">Expert</string>
+    <string name="pro">Pro</string>
+    <string name="master">Master</string>
+
+    <string name="hard1">Pain</string>
+    <string name="hard2">Fear</string>
+    <string name="hard3">Sorrow</string>
+    <string name="hard4">Fury</string>
+    <string name="hard5">End</string>
+    <string name="hard6">Boss</string>
+
+    <string name="you">You</string>
+    <string name="friend">Friend</string>
+    <string name="title_activity_my">MyActivity</string>
+
+    <string name="do_you_know_connect_four">Thank you for downloading!!\nFirst, do you know ConnectFour?</string>
+    <string name="i_know">I know</string>
+    <string name="i_dont">I don\'t</string>
+    <string name="how_to_make_a_move">Let\'s play ConnectFour!!\nTap a column which you want to drop your piece.</string>
+    <string name="message_win_title">Great!!</string>
+    <string name="message_win_message">Let\'s challenge stronger player!!</string>
+    <string name="message_lose_title">Oops…</string>
+    <string name="message_lose_message">Don\'t mind!!\nTry again!!</string>
+    <string name="yes">YES</string>
+
+    <string name="tutorial_message">Watch Tutorial?</string>
+    <string name="watch">WATCH</string>
+    <string name="skip">SKIP</string>
+    <string name="ok">OK</string>
+
+    <string name="rule1">Two Player Drop Their Pieces\n in Turn</string>
+    <string name="rule2">When you Connect Four Pieces\n You Win the Game</string>
+
+    <string name="computer">Computer</string>
+    <string name="random">Random</string>
+    <string name="settings">Settings</string>
+
+    <string name="training">Training</string>
+    <string name="win_in">Win in</string>
+    <string name="success">Good job!!</string>
+    <string name="failure">Oops…</string>
+    <string name="turn">turn</string>
+    <string name="training_recommend">Thank you for playing !!\nWe recommend you to try Training mode !</string>
+    <string name="training_intro">Welcome to Training Mode!!\nLet\'s brush up your ConnectFour skills!!</string>
+    <string name="training_rule">Let RED Player Win \nwithin Specified Turn.</string>
+
+</resources>

@@ -1,0 +1,78 @@
+
+TEST on Nexus5
+01-26 13:41:20.443  19159-19177/com.example.kota.connectfour I/Execution Time Test﹕ strategy : MiniMax
+01-26 13:41:20.452  19159-19177/com.example.kota.connectfour I/Execution Time Test﹕ depth = 1 : 0.005(s)
+01-26 13:41:20.457  19159-19177/com.example.kota.connectfour I/Execution Time Test﹕ depth = 2 : 0.005(s)
+01-26 13:41:20.503  19159-19177/com.example.kota.connectfour I/Execution Time Test﹕ depth = 3 : 0.046(s)
+01-26 13:41:20.755  19159-19177/com.example.kota.connectfour I/Execution Time Test﹕ depth = 4 : 0.252(s)
+01-26 13:41:21.970  19159-19177/com.example.kota.connectfour I/Execution Time Test﹕ depth = 5 : 1.215(s)
+01-26 13:41:31.578  19159-19177/com.example.kota.connectfour I/Execution Time Test﹕ depth = 6 : 9.608(s)
+01-26 13:42:35.576  19159-19177/com.example.kota.connectfour I/Execution Time Test﹕ depth = 7 : 63.998(s)
+01-26 13:42:35.576  19159-19177/com.example.kota.connectfour I/Execution Time Test﹕ strategy : AlphaBetaCut
+01-26 13:42:35.577  19159-19177/com.example.kota.connectfour I/Execution Time Test﹕ depth = 1 : 0.001(s)
+01-26 13:42:35.578  19159-19177/com.example.kota.connectfour I/Execution Time Test﹕ depth = 2 : 0.001(s)
+01-26 13:42:35.583  19159-19177/com.example.kota.connectfour I/Execution Time Test﹕ depth = 3 : 0.005(s)
+01-26 13:42:35.594  19159-19177/com.example.kota.connectfour I/Execution Time Test﹕ depth = 4 : 0.011(s)
+01-26 13:42:35.639  19159-19177/com.example.kota.connectfour I/Execution Time Test﹕ depth = 5 : 0.045(s)
+01-26 13:42:35.749  19159-19177/com.example.kota.connectfour I/Execution Time Test﹕ depth = 6 : 0.11(s)
+01-26 13:42:36.140  19159-19177/com.example.kota.connectfour I/Execution Time Test﹕ depth = 7 : 0.39(s)
+01-26 13:42:37.499  19159-19177/com.example.kota.connectfour I/Execution Time Test﹕ depth = 8 : 1.358(s)
+01-26 13:42:41.023  19159-19177/com.example.kota.connectfour I/Execution Time Test﹕ depth = 9 : 3.524(s)
+01-26 13:43:01.987  19159-19177/com.example.kota.connectfour I/Execution Time Test﹕ depth = 10 : 20.964(s)
+01-26 13:43:01.987  19159-19177/com.example.kota.connectfour I/Execution Time Test﹕ strategy : IterativeDeepening
+01-26 13:43:01.987  19159-19177/com.example.kota.connectfour I/Execution Time Test﹕ depth = 1 : 0.0(s)
+01-26 13:43:01.987  19159-19177/com.example.kota.connectfour I/Execution Time Test﹕ depth = 2 : 0.0(s)
+01-26 13:43:01.989  19159-19177/com.example.kota.connectfour I/Execution Time Test﹕ depth = 3 : 0.002(s)
+01-26 13:43:01.995  19159-19177/com.example.kota.connectfour I/Execution Time Test﹕ depth = 4 : 0.006(s)
+01-26 13:43:02.012  19159-19177/com.example.kota.connectfour I/Execution Time Test﹕ depth = 5 : 0.017(s)
+01-26 13:43:02.067  19159-19177/com.example.kota.connectfour I/Execution Time Test﹕ depth = 6 : 0.055(s)
+01-26 13:43:02.230  19159-19177/com.example.kota.connectfour I/Execution Time Test﹕ depth = 7 : 0.163(s)
+01-26 13:43:02.784  19159-19177/com.example.kota.connectfour I/Execution Time Test﹕ depth = 8 : 0.554(s)
+01-26 13:43:04.684  19159-19177/com.example.kota.connectfour I/Execution Time Test﹕ depth = 9 : 1.9(s)
+01-26 13:43:10.210  19159-19177/com.example.kota.connectfour I/Execution Time Test﹕ depth = 10 : 5.526(s)
+01-26 13:43:10.210  19159-19177/com.example.kota.connectfour I/Execution Time Test﹕ Test Finished.
+
+TEST on Galaxy3
+01-26 13:46:20.569  30870-30899/com.example.kota.connectfour I/Execution Time Test﹕ strategy : MiniMax
+01-26 13:46:20.579  30870-30899/com.example.kota.connectfour I/Execution Time Test﹕ depth = 1 : 0.016(s)
+01-26 13:46:20.659  30870-30899/com.example.kota.connectfour I/Execution Time Test﹕ depth = 2 : 0.076(s)
+01-26 13:46:21.010  30870-30899/com.example.kota.connectfour I/Execution Time Test﹕ depth = 3 : 0.35(s)
+01-26 13:46:22.501  30870-30899/com.example.kota.connectfour I/Execution Time Test﹕ depth = 4 : 1.487(s)
+01-26 13:46:29.379  30870-30899/com.example.kota.connectfour I/Execution Time Test﹕ depth = 5 : 6.882(s)
+01-26 13:47:15.616  30870-30899/com.example.kota.connectfour I/Execution Time Test﹕ depth = 6 : 46.236(s)
+01-26 13:47:15.616  30870-30899/com.example.kota.connectfour I/Execution Time Test﹕ strategy : AlphaBetaCut
+01-26 13:47:15.646  30870-30899/com.example.kota.connectfour I/Execution Time Test﹕ depth = 1 : 0.022(s)
+01-26 13:47:15.686  30870-30899/com.example.kota.connectfour I/Execution Time Test﹕ depth = 2 : 0.038(s)
+01-26 13:47:15.756  30870-30899/com.example.kota.connectfour I/Execution Time Test﹕ depth = 3 : 0.075(s)
+01-26 13:47:15.907  30870-30899/com.example.kota.connectfour I/Execution Time Test﹕ depth = 4 : 0.148(s)
+01-26 13:47:16.167  30870-30899/com.example.kota.connectfour I/Execution Time Test﹕ depth = 5 : 0.254(s)
+01-26 13:47:16.838  30870-30899/com.example.kota.connectfour I/Execution Time Test﹕ depth = 6 : 0.673(s)
+01-26 13:47:19.110  30870-30899/com.example.kota.connectfour I/Execution Time Test﹕ depth = 7 : 2.267(s)
+01-26 13:47:26.978  30870-30899/com.example.kota.connectfour I/Execution Time Test﹕ depth = 8 : 7.873(s)
+01-26 13:47:46.559  30870-30899/com.example.kota.connectfour I/Execution Time Test﹕ depth = 9 : 19.577(s)
+01-26 13:47:46.559  30870-30899/com.example.kota.connectfour I/Execution Time Test﹕ strategy : IterativeDeepening
+01-26 13:47:46.559  30870-30899/com.example.kota.connectfour I/Execution Time Test﹕ depth = 1 : 0.0(s)
+01-26 13:47:46.579  30870-30899/com.example.kota.connectfour I/Execution Time Test﹕ depth = 2 : 0.018(s)
+01-26 13:47:46.589  30870-30899/com.example.kota.connectfour I/Execution Time Test﹕ depth = 3 : 0.014(s)
+01-26 13:47:46.629  30870-30899/com.example.kota.connectfour I/Execution Time Test﹕ depth = 4 : 0.033(s)
+01-26 13:47:46.719  30870-30899/com.example.kota.connectfour I/Execution Time Test﹕ depth = 5 : 0.09(s)
+01-26 13:47:46.900  30870-30899/com.example.kota.connectfour I/Execution Time Test﹕ depth = 6 : 0.182(s)
+01-26 13:47:47.821  30870-30899/com.example.kota.connectfour I/Execution Time Test﹕ depth = 7 : 0.923(s)
+01-26 13:47:51.475  30870-30899/com.example.kota.connectfour I/Execution Time Test﹕ depth = 8 : 3.648(s)
+01-26 13:48:04.749  30870-30899/com.example.kota.connectfour I/Execution Time Test﹕ depth = 9 : 13.273(s)
+01-26 13:48:31.938  30870-30899/com.example.kota.connectfour I/Execution Time Test﹕ depth = 10 : 27.197(s)
+01-26 13:48:31.938  30870-30899/com.example.kota.connectfour I/Execution Time Test﹕ Test Finished.
+
+TEST on PC (MacBook Air) written in Python
+TEST OF PLAYING TIME TO MAKE A MOVE
+DEPTH (1) : 0.0001380443573 (s)
+DEPTH (2) : 0.00141096115112 (s)
+DEPTH (3) : 0.00422286987305 (s)
+DEPTH (4) : 0.0109429359436 (s)
+DEPTH (5) : 0.0212519168854 (s)
+DEPTH (6) : 0.0776410102844 (s)
+DEPTH (7) : 0.201620101929 (s)
+DEPTH (8) : 0.632326126099 (s)
+DEPTH (9) : 2.13511991501 (s)
+DEPTH (10) : 6.58697485924 (s)
+

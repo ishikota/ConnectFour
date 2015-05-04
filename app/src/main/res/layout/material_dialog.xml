@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingTop="24dp">
+
+    <TextView android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Discard draft?"
+        android:textColor="@color/text"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="24dp"
+        android:layout_marginRight="24dp"
+        android:layout_marginBottom="16dp"/>
+
+    <TextView android:id="@+id/message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Discard draft?"
+        android:textColor="@color/secondary_text"
+        android:textSize="16sp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginRight="24dp"
+        android:layout_marginBottom="16dp"
+        android:layout_below="@+id/title"/>
+
+    <Button android:id="@+id/btn_positive"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="AGREE"
+        android:textColor="@color/cyan"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_below="@+id/message"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="24dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginBottom="6dp"/>
+
+    <Button android:id="@+id/btn_negative"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CANCEL"
+        android:textColor="@color/cyan"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_below="@+id/message"
+        android:layout_toLeftOf="@+id/btn_positive"
+        android:layout_marginTop="6dp"
+        android:layout_marginBottom="14dp"
+        android:layout_marginRight="8dp"/>
+
+</RelativeLayout>

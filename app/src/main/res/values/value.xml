@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- key for put a tag on Object with key -->
+    <integer name="key1">1</integer>
+
+</resources>

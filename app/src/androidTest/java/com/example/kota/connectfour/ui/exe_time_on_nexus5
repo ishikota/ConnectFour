@@ -1,0 +1,81 @@
+
+ --------------------------------------------
+ Start minimax Execution TIME test
+ depth = 1 : 0.001(s)
+ depth = 2 : 0.004(s)
+ depth = 3 : 0.027(s)
+ depth = 4 : 0.186(s)
+ depth = 5 : 1.134(s)
+ depth = 6 : 8.061(s)
+ depth = 7 : 56.745(s)
+ Finish Execution TIME test
+ --------------------------------------------
+ --------------------------------------------
+ Start alphabetacut Execution TIME test
+ depth = 1 : 0.001(s)
+ depth = 2 : 0.001(s)
+ depth = 3 : 0.005(s)
+ depth = 4 : 0.01(s)
+ depth = 5 : 0.033(s)
+ depth = 6 : 0.11(s)
+ depth = 7 : 0.353(s)
+ depth = 8 : 1.121(s)
+ depth = 9 : 3.107(s)
+ depth = 10 : 17.845(s)
+ Finish Execution TIME test
+ --------------------------------------------
+ --------------------------------------------
+ Start iterative_deepening Execution TIME test
+ depth = 1 : 0.0(s)
+ depth = 2 : 0.0(s)
+ depth = 3 : 0.002(s)
+ depth = 4 : 0.006(s)
+ depth = 5 : 0.016(s)
+ depth = 6 : 0.047(s)
+ depth = 7 : 0.147(s)
+ depth = 8 : 0.484(s)
+ depth = 9 : 1.579(s)
+ depth = 10 : 4.691(s)
+ Finish Execution TIME test
+ --------------------------------------------
+ --------------------------------------------
+ Start basemcts Execution TIME test
+ ** simulation was done in depth*500 times
+ depth = 1 : 0.312(s)
+ depth = 2 : 0.623(s)
+ depth = 3 : 0.905(s)
+ depth = 4 : 1.199(s)
+ depth = 5 : 1.489(s)
+ depth = 6 : 1.802(s)
+ depth = 7 : 2.092(s)
+ depth = 8 : 2.396(s)
+ depth = 9 : 2.672(s)
+ depth = 10 : 2.98(s)
+ Finish Execution TIME test
+ --------------------------------------------
+ --------------------------------------------
+  Start tuned_mcts Execution TIME test (with PruneStrategy)
+  depth = 1 : 4.558(s)
+  depth = 2 : 6.393(s)
+  depth = 3 : 8.268(s)
+  depth = 4 : 10.149(s)
+  depth = 5 : 11.595(s)
+  depth = 6 : 13.463(s)
+  depth = 7 : 14.971(s)
+  depth = 8 : 16.381(s)
+  Finish Execution TIME test
+ --------------------------------------------
+ --------------------------------------------
+ Start tuned_mcts Execution TIME test (without PruneStrategy)
+ => about 5.5 times longer than base MCTS
+ depth = 1 : 1.773(s)
+ depth = 2 : 3.416(s)
+ depth = 3 : 5.125(s)
+ depth = 4 : 6.703(s)
+ depth = 5 : 8.376(s)
+ depth = 6 : 10.036(s)
+ depth = 7 : 11.433(s)
+ depth = 8 : 13.502(s)
+ depth = 9 : 16.224(s)
+ Finish Execution TIME test
+ --------------------------------------------

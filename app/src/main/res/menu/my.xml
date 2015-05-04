@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res/"
+    tools:context="com.example.kota.connectfour.ui.DeprecateMenuActivity" >
+    
+    <item android:id="@+id/training"
+        android:title="@string/training"
+        android:icon="@drawable/brain"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:showAsAction="ifRoom"/>
+</menu>

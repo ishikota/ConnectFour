@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/">
+    <item android:id="@+id/menu_parent"
+        android:icon="@drawable/ic_action_settings"
+        android:title="@string/settings"
+        android:showAsAction="ifRoom"
+        app:showAsAction="ifRoom">
+        <menu>
+            <item android:id="@+id/reset"
+                android:title="Reset" />
+            <item android:id="@+id/tutorial"
+                android:title="Tutorial" />
+        </menu>
+    </item>
+</menu>

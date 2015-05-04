@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ProgressBar android:id="@+id/progress"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:indeterminate="true"
+        android:visibility="gone"
+        android:progress="1" />
+
+    <RelativeLayout android:id="@+id/board_container"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal">
+    </RelativeLayout>
+
+    <LinearLayout android:id="@+id/footer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:animateLayoutChanges="true"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="32dp"
+        android:layout_below="@id/board_container">
+        <!--<Button android:id="@+id/button"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:padding="8dp"-->
+            <!--android:text="Give up"-->
+            <!--android:textColor="@color/white"-->
+            <!--android:background="@color/red"/>-->
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3F51B5">
+    <LinearLayout style="@style/column">
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+    </LinearLayout>
+    <LinearLayout style="@style/column">
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+    </LinearLayout>
+
+    <LinearLayout style="@style/column">
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+    </LinearLayout>
+    <LinearLayout style="@style/column">
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+    </LinearLayout>
+    <LinearLayout style="@style/column">
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+    </LinearLayout>
+    <LinearLayout style="@style/column">
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+    </LinearLayout>
+    <LinearLayout style="@style/column">
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/yellow"/>
+    </LinearLayout>
+    <LinearLayout style="@style/column">
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/yellow"/>
+    </LinearLayout>
+    <LinearLayout style="@style/column">
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+    </LinearLayout>
+    <LinearLayout style="@style/column">
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+        <ImageView style="@style/yellow"/>
+    </LinearLayout>
+
+</LinearLayout>

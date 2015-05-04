@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/parent"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="32dp"
+    android:gravity="center">
+    <LinearLayout style="@style/column">
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/red"/>
+        <ImageView style="@style/yellow"/>
+    </LinearLayout>
+    <LinearLayout style="@style/column">
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+    </LinearLayout>
+    <LinearLayout style="@style/column">
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+    </LinearLayout>
+    <LinearLayout style="@style/column">
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+    </LinearLayout>
+    <LinearLayout style="@style/column">
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+    </LinearLayout>
+    <LinearLayout style="@style/column">
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+    </LinearLayout>
+    <LinearLayout style="@style/column">
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+        <ImageView style="@style/blank"/>
+    </LinearLayout>
+
+</LinearLayout>

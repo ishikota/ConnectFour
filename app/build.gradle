@@ -5,7 +5,7 @@ android {
     buildToolsVersion "20.0.0"
 
     defaultConfig {
-        applicationId "com.example.kota.connectfour"
+        applicationId "com.ikota.connectfour"
         minSdkVersion 14
         targetSdkVersion 20
         versionCode 1
